@@ -3,7 +3,7 @@ Public Class frm_Login
     Private Sub frm_Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
-
+    ''phucpnps02085 đã chỉnh sửa File này
     Private Sub btnThoat_Click(sender As Object, e As EventArgs) Handles btnThoat.Click
         Me.Close()
     End Sub
@@ -33,5 +33,9 @@ Public Class frm_Login
         txt_User.Clear()
         txt_Password.Clear()
         txt_User.Focus()
+    End Sub
+
+    Private Sub Label4_Click(sender As Object, e As EventArgs) Handles Label4.Click
+
     End Sub
 End Class

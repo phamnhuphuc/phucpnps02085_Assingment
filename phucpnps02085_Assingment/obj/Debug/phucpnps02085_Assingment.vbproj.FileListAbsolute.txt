@@ -28,3 +28,7 @@ E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_Assignme
 E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmQuanlynv.resources
 E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frm_Quanlysp.resources
 E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.vbproj.GenerateResource.Cache
+C:\Users\phuc pham\Desktop\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.exe.config
+C:\Users\phuc pham\Desktop\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.exe
+C:\Users\phuc pham\Desktop\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.xml
+C:\Users\phuc pham\Desktop\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.pdb
