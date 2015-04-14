@@ -1,0 +1,30 @@
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.exe.config
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.exe
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.pdb
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.xml
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frm_Login.resources
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.Resources.resources
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.vbproj.GenerateResource.Cache
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.exe
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.xml
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.pdb
+c:\users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frm_Quanlysp.resources
+C:\Users\phuc pham\documents\visual studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.vbprojResolveAssemblyReference.cache
+C:\Users\phuc pham\Documents\Visual Studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmMain.resources
+C:\Users\phuc pham\Documents\Visual Studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmQuanlykh.resources
+C:\Users\phuc pham\Documents\Visual Studio 2013\Projects\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmQuanlynv.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.exe.config
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.exe
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.xml
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.pdb
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.exe
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.pdb
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\bin\Debug\phucpnps02085_Assingment.xml
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.vbprojResolveAssemblyReference.cache
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmMain.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frm_Login.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.Resources.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmQuanlykh.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frmQuanlynv.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.frm_Quanlysp.resources
+E:\Hoc tap\Điện toán đám mây -INF205\PT9303_phucpnps02085_INF205_AssignmentGD2\Ứng dụng quản lý bán hàng\phucpnps02085_Assingment\phucpnps02085_Assingment\obj\Debug\phucpnps02085_Assingment.vbproj.GenerateResource.Cache
